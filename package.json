@@ -11,7 +11,7 @@
     "start": "gulp server",
     "lint": "eslint src"
   },
-  "author": "",
+  "author": "David Calavera",
   "license": "MIT",
   "dependencies": {
     "autoprefixer": "^6.3.7",
